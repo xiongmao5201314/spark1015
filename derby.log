@@ -1,4 +1,4 @@
-----------------------------------------------------------------
+1223----------------------------------------------------------------
 Tue Mar 29 15:29:44 CST 2022:
 Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-017f-d494-9e2f-000008600dc0 
 on database directory D:\code\scala\spark1015\metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@54f5f647 
